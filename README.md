@@ -12,6 +12,8 @@ Per la parte di OS161 ci sono anche screenshot del codice spiegato.
 
 Disponibili in formato Markdown o PDF.
 
+I PDF sono più "leggibili", i Markdown un po' meno (sono stati convertiti dai PDF), però hanno gli indici navigabili che portano alle varie sezioni degli appunti.
+
 
 ## Dare una mano
 
